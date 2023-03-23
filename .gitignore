@@ -1,4 +1,11 @@
-# Byte-compiled / optimized / DLL files
+# Adding config.py file.
+config1.py
+
+# adding addional files
+API_practivev1.ipynb
+random_numbersv1.ipynb
+
+Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
